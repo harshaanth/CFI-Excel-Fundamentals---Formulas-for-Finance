@@ -1,5 +1,7 @@
 # My Work - Excel Fundamentals - Formulas for Finance
 
+![1733865302853](https://github.com/user-attachments/assets/bacf57bc-267e-4346-870e-e34d75a2e5e4)
+
 This repository contains my work and practice exercises related to Excel formulas for finance, as part of my certification from the Corporate Finance Institute (CFI). The practice file `My Work - Excel Fundamentals - Formulas for Finance.xlsx` includes examples and exercises based on the learning objectives provided in the course.
 
 ## Learning Objectives
