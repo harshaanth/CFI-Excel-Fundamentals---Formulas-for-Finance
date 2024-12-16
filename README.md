@@ -1,4 +1,4 @@
-# My Work - Excel Fundamentals - Formulas for Finance
+# Excel Fundamentals - Formulas for Finance
 
 ![1733865302853](https://github.com/user-attachments/assets/bacf57bc-267e-4346-870e-e34d75a2e5e4)
 
